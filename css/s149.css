@@ -1,0 +1,75 @@
+.s149 {
+  background: black;
+}
+.img-logo1{
+
+  border-radius: 500px;
+  width: 100px;
+  height: 100px;
+}
+.marque{
+	position: fixed;
+	width: 100%;
+
+}
+.kiri{
+	float: right;
+}
+.komentar{
+	border-bottom-right-radius:  50px;
+	border-top-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	background-color: silver; 
+	margin: 20px;
+}
+.isi-komentar{
+	padding: 40px;
+}
+.raw {
+			margin:100px auto;
+			width:300px;
+			text-align:center;
+		}
+.login {
+			background-image:url(images/images-13.jpeg);
+			padding:20px;
+			margin-top:20px;
+		}
+
+.kepnav {
+
+			padding: 15px;
+			background-color:#66CCCC;
+			
+}
+.kepnav1 {
+
+			float:left;
+			
+			
+}
+.kepnav2 {
+
+			text-align:center;
+			
+			
+			
+}
+
+.kepnav4 {
+
+			padding: 15px;
+			text-align:left;
+			
+}
+.keplogo {
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+
+}
+
+.glogo {
+	border-bottom-right-radius: 500px;
+	border-bottom-left-radius: 500px;
+
+}
